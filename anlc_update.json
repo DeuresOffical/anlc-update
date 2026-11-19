@@ -1,0 +1,8 @@
+{
+  "version": "2.7.0",
+  "changelog": "v2.7.0 - Fix EAC ObRegisterCallbacks chan ZwQueryVirtualMemory khien ESP 2 FPS / GAME 0 FPS",
+  "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
+  "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
+  "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
+  "net_loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_net_loader.bin"
+}
