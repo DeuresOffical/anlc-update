@@ -1,6 +1,6 @@
 {
-  "version": "2.7.1",
-  "changelog": "v2.7.1 - Anti-Crack (.text CRC + Anti-Debug + Auth-Sealed Offsets) & Fix Auto-Update (CDN cache-bust + PE/Content-Length verify)",
+  "version": "2.7.4",
+  "changelog": "v2.7.4 - Fix Knocked detection, live Health/Armor sync + proportional Armor bar, fix DComp black screen & ghosting trails",
   "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
   "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
   "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
