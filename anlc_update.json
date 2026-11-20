@@ -1,6 +1,6 @@
 {
-  "version": "2.7.4",
-  "changelog": "v2.7.4 - Fix Knocked detection, live Health/Armor sync + proportional Armor bar, fix DComp black screen & ghosting trails",
+  "version": "2.7.5",
+  "changelog": "v2.7.5 - Khoi phuc lai ban on dinh v2.7.1 (sua loi ket mau 25 HP va cac thay doi v2.7.2-2.7.4)",
   "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
   "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
   "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
