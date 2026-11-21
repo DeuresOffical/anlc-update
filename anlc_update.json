@@ -1,6 +1,6 @@
 {
-  "version": "2.7.9",
-  "changelog": "v2.7.9 - Phan biet Knocked vs Ngoi tren xe (InVehicleModel), phuc hoi mau thuc te 2 chieu khong ket 25 HP, sua Chams Thay/Sau tuong (bilinear terrain LOS), Chams vien nhan vat (outline), backface culling kim loai",
+  "version": "2.8.0",
+  "changelog": "v2.8.0 - Toi uu FPS cuc manh (LOS cache TTL 85ms & distance gate, Chams fast polynomial shading bo powf, Chams outline fast-path), hien thi nguoi tron trong tu / locker (HideObjectModel occupant authorative scan & box elevation 1.8m [TRONG TU]), nang khoa tam Aim Head len song mui / mui (L_noseUp_jnt, loai bo lech mom)",
   "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
   "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
   "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
