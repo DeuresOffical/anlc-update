@@ -1,8 +1,9 @@
 {
-  "version": "2.7.5",
-  "changelog": "v2.7.5 - Khoi phuc lai ban on dinh v2.7.1 (sua loi ket mau 25 HP va cac thay doi v2.7.2-2.7.4)",
+  "version": "2.7.9",
+  "changelog": "v2.7.9 - Phan biet Knocked vs Ngoi tren xe (InVehicleModel), phuc hoi mau thuc te 2 chieu khong ket 25 HP, sua Chams Thay/Sau tuong (bilinear terrain LOS), Chams vien nhan vat (outline), backface culling kim loai",
   "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
   "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
   "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
-  "net_loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_net_loader.bin"
+  "net_loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_net_loader.bin",
+  "admin_loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_admin_loader.bin"
 }
