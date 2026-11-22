@@ -1,6 +1,6 @@
 {
-  "version": "2.8.3",
-  "changelog": "v2.8.3 - Khac phuc triet de drop FPS: toi uu tinh toan Chams loai bo 100k sqrtf, bo sung Viewport culling va gioi han so luong loot tren man hinh, toi uu tan so doc bo nho 150Hz muot ma; tich hop Instant Loot go bo giu E",
+  "version": "2.8.7",
+  "changelog": "v2.8.7 - Cap nhat giao dien va phim tat, dieu chinh toc do ngam, hien thi phien ban va do hiem sung, sua trang thai giap.",
   "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
   "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
   "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
