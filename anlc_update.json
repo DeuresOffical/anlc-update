@@ -1,6 +1,6 @@
 {
-  "version": "2.8.9",
-  "changelog": "v2.8.9 - Silent Aim doc quyen Admin: khac phuc triet de giat roi lock, dong bo 1000Hz 100% dan trung tam, them hieu chinh chuot va toggle Aim clan, tich hop Skin Changer Seller 113hax",
+  "version": "2.9.9",
+  "changelog": "v2.9.9 - Fix false knocked detection for standing and seated players; require valid knockout timestamp and phase, respect revive state. Built from the restored 2.9.8 codebase for all loader variants.",
   "core_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_core.bin",
   "driver_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_drv.bin",
   "loader_url": "https://raw.githubusercontent.com/DeuresOffical/anlc-update/main/payload_loader.bin",
